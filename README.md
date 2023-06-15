@@ -30,3 +30,6 @@ Our learning goals were to focus on functionality that incorporate dry javascrip
 ### Wins + Challenges:
 [//]: <> (What are 2-3 wins you have from this project? What were some challenges you faced - and how did you get over them?) 
 Our best wil is we both have a new networking buddy and friend out of working together on this project. Other wins were learning how to write your own code and be able to read and explain another's code. We also completed the project in a timely enough manner to implement another feature, which will not allow the user to create their own poster, unless all three input fields are filled. Our biggest challenge had to do with naming convnetions, for variables, functions and even branches. We needed to be more rigorous with checking the code for minor mistakes in our variables and look for mistyped words which caused a lot of headaches and lost time. 
+
+
+LINK : https://banjaminh.github.io/hang-in-there/
